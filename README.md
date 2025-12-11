@@ -114,7 +114,7 @@ Financial Analysis Concepts
 
 Clone this repository:
 
-git clone https://github.com/ShahadatKabir/Dashboards-Power-bi-excel-.git
+git clone https://github.com/ShahadatKabir/Dashboards-Power-bi-excel.git
 
 
 Open the dashboard file in your preferred tool (Excel/Power BI).
